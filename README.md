@@ -1,2 +1,7 @@
-# vanillaJSprojects
-There are my vanilla JavaScript projects, it just my practice.
+# Stopwatch
+It is simple stopwatch with vanilla JS
+
+## Technologies used
+  + JavaScript `ES6`
+  + HTML
+  + CSS `SASS`
